@@ -329,8 +329,8 @@ margin-left:200px;
 }
 .iop67{
     width:100%;
-    height:65px;
-    background-color:rgb(243, 0, 0);
+    height:55px;
+    
 }
 .iop68{
     position: relative;
@@ -343,6 +343,19 @@ margin-left:200px;
     border-radius:10px;
 }
 .iop70{
-    margin-left:40px;
+    margin-left:140px;
     float: left;
+}
+
+.iop70:hover{
+    border-bottom:2px solid #E71725;
+    
+}
+
+.shap{
+    margin-top:100px;
+    width:100%;
+    height:500px;
+    background-color: #000000;
+    color:white;
 }
